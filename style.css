@@ -43,7 +43,37 @@
   background-color: darkmagenta;
 }
 
-.cardImageSize {
-  width: 280px;
-  margin: 0 auto;
+.card {
+  box-shadow: 5px 5px 5px 7px lightgray;
+}
+#subscribe {
+  background-color: lightskyblue;
+}
+
+#subscribe button {
+  margin-top: 10px;
+  font-size: 15px;
+  background-color: mediumslateblue;
+  color: white;
+}
+
+.footer-class {
+  background-color: darkgray;
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.footer-class a {
+  margin-top: 50px;
+  text-decoration: none;
+  color: black;
+}
+
+.footer-class a:hover {
+  color: blue;
+}
+
+.footer-class p {
+  margin: 10px;
 }
