@@ -1,0 +1,49 @@
+.bg-crousel {
+  margin-top: 30px;
+  background-color: #fceae8;
+  padding-left: 140px;
+  padding-right: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.cagories-section {
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.cagories-section .cataBg1 {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: sandybrown;
+}
+
+.cagories-section .cataBg2 {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: aqua;
+}
+
+.cagories-section .cataBg3 {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: chartreuse;
+}
+
+.shoe_bg1 {
+  background-color: darkcyan;
+}
+
+.shoe_bg2 {
+  background-color: brown;
+}
+
+.shoe_bg3 {
+  background-color: darkmagenta;
+}
+
+.cardImageSize {
+  width: 280px;
+  margin: 0 auto;
+}
